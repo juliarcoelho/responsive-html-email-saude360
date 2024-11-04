@@ -17,8 +17,8 @@ To use these templates, clone the repository and customize the HTML and CSS as n
 
 ## Technologies
 
-HTML - For structuring the email content
-CSS - Inline CSS styles for styling compatibility in email clients
+- HTML - For structuring the email content
+- CSS - Inline CSS styles for styling compatibility in email clients
 Related Projects
 
 ## Related Projects
